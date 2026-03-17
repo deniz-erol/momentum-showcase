@@ -1,5 +1,10 @@
 # Momentum — Technical Showcase
 
+
+
+https://github.com/user-attachments/assets/f8f8d18e-69ba-4704-b5c6-3a29e667bcc4
+
+
 This repository is a **public technical showcase** of the **Momentum** project: an AI-native fintech app for tracking crypto, TEFAS (Turkish mutual funds), and precious metals in one dashboard — on web and native mobile (Android & iOS via Capacitor 6). The full application lives in a **private** repo; here we expose selected **engineering patterns and APIs** that power it: unified search across financial data sources, asset management UX, native-mobile networking, and relational financial modeling.
 
 ---
